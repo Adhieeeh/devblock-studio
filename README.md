@@ -8,7 +8,7 @@ DevBlock is a responsive frontend cryptographic workbench built using React comp
 ![](devbb.png)
 
 ##  Technical Highlights Explored
-
+---------------------------------------------------------------------------------
 
 *  **Proof-of-Work Nonce Solvers:** Leverages non-blocking asynchronous timing hooks to process iterative string hashing functions until difficulty parameters match.
 *  **Immutable Continuity Audits:** Runs comprehensive recursive mathematical verification loops down pointer indices to instantly flag array injection breaches.
