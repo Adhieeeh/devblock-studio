@@ -1,16 +1,11 @@
-# React + Vite
+# 💎 DevBlock — Interactive Client-Side Blockchain Ledger & Protocol Lab (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DevBlock is a responsive frontend cryptographic workbench built using React component logic arrays. It structures a functional, multi-node sequential ledger loop entirely on the client side, utilizing string bit-shifting algorithms to emulate Proof-of-Work mining loops (`setInterval`) and executing continuity checks to map structural data tampering anomalies in real-time.
 
-Currently, two official plugins are available:
+## ⚡ Technical Highlights Explored
+* 🧮 **Proof-of-Work Nonce Solvers:** Leverages non-blocking asynchronous timing hooks to process iterative string hashing functions until difficulty parameters match.
+* 🛡️ **Immutable Continuity Audits:** Runs comprehensive recursive mathematical verification loops down pointer indices to instantly flag array injection breaches.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Running Instructions
+1. Setup package targets: `npm install`
+2. Launch workspace profiling HUD: `npm run dev`
