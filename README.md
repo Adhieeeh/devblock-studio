@@ -1,5 +1,6 @@
 #  DevBlock — Interactive Client-Side Blockchain Ledger & Protocol Lab (React)
 
+
 DevBlock is a responsive frontend cryptographic workbench built using React component logic arrays. It structures a functional, multi-node sequential ledger loop entirely on the client side, utilizing string bit-shifting algorithms to emulate Proof-of-Work mining loops (`setInterval`) and executing continuity checks to map structural data tampering anomalies in real-time.
 
 ##  Technical Highlights Explored
