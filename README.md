@@ -16,7 +16,7 @@ DevBlock is a responsive frontend cryptographic workbench built using React comp
 ##  Running Instructions
 ---------------------------------------------------------------------------------
 
-1. Setup package targets: `npm install`
+
 
 
 -----------------------------------------------------------------------------------
