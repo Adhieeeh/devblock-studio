@@ -14,7 +14,7 @@ DevBlock is a responsive frontend cryptographic workbench built using React comp
 *  **Immutable Continuity Audits:** Runs comprehensive recursive mathematical verification loops down pointer indices to instantly flag array injection breaches.
 
 ##  Running Instructions
----------------------------------------------------------------------------------
+
 
 
 
